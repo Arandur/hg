@@ -1,0 +1,6 @@
+bin
+build
+.*.sw[pq]
+hg
+.debug_time
+.release_time
